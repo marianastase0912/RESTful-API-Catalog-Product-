@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.maria.springjwtcatalog.ApplicationProperties",
+      "sourceType": "com.maria.springjwtcatalog.ApplicationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application",
+      "type": "java.lang.String",
+      "description": "A description for 'application'"
+    },
+    {
+      "name": "application.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.maria.springjwtcatalog.ApplicationProperties"
+    },
+    {
+      "name": "secretKey",
+      "type": "java.lang.String",
+      "description": "A description for 'secretKey'"
+    }
+  ],
+  "hints": []
+}
