@@ -25,7 +25,7 @@
 	o.jsonwebtoken jwt
 	avax.xml.bind jaxb-api
 	Dependencies: 
-<dependencies>
+	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
