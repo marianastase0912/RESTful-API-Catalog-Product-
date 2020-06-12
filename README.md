@@ -93,4 +93,3 @@
 		    <artifactId>guava</artifactId>
 		    <version>27.1-jre</version>
 		</dependency>
-	</dependencies>
